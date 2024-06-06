@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Studying Computer Science and Design (CSD) in Singapore University of Technology and Design (SUTD)<br>GPA 4.25/5.0<br>Date of graduate: Apr 2026
+Currently Studying Computer Science and Design (CSD) in Singapore University of Technology and Design (SUTD)<br>GPA 4.13/5.0<br>Date of graduate: Apr 2026
 
 
 ## 🌐 Socials:
