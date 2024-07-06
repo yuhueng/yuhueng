@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently Studying Computer Science and Design (CSD) in Singapore University of Technology and Design (SUTD) Date of graduate: Apr 2026
+Currently Studying Computer Science and Design (CSD) in Singapore University of Technology and Design (SUTD)
+Date of graduate: Apr 2026
 
 
 ## 🌐 Socials:
