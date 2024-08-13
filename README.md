@@ -10,15 +10,17 @@
 
 <br>
 
-<h1 align="center"> 🌐 Socials: </h1>
+<h1 align="center"> 🌐 Socials </h1>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ngyuhueng) 
+[![Website ngyuhueng.com](https://img.shields.io/badge/Website-ngyuhueng.com-blue)](https://ngyuhueng.com)
+
 </div>
 
 <br>
 
-<h1 align="center"> 💻 Tech Stack: </h1>
+<h1 align="center"> 💻 Tech Stack </h1>
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,7 +53,7 @@
 
 <br>
 
-<h1 align="center"> 📊 GitHub Stats: </h1>
+<h1 align="center"> 📊 GitHub Stats </h1>
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=yuhueng&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
