@@ -1,66 +1,68 @@
-<h1 align="center"> 💫 About Me </h1>
-<p align=center>
-  Currently Studying Computer Science and Design (CSD) in Singapore University of Technology and Design (SUTD)
-  <br>Date of graduate: May 2026</br>
-</p>
-<div align="center">
-  
-  ![IntroGIF](https://github.com/yuhueng/yuhueng/assets/144983073/df93bea7-5178-4eea-a528-44b27a725b08)
-</div>
-
-<br>
-
-<h1 align="center"> 🌐 Socials </h1>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ngyuhueng) 
-[![Website ngyuhueng.com](https://img.shields.io/badge/Website-ngyuhueng.com-blue)](https://ngyuhueng.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B3C49,55:127A73,100:2FB39A&text=Ng%20Yu%20Hueng&fontSize=58&fontColor=F3FFFB&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Singapore&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Ng Yu Hueng" />
+
+<a href="https://ngyuhueng.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2FB39A&center=true&vCenter=true&width=640&height=40&lines=Building+agentic+AI+systems;APIs%2C+pipelines+and+evals+for+LLM+products;SUTD+CSD+%2726+%C2%B7+Data+Analytics+%2B+AI+minor" alt="Typing intro" /></a>
+
+[![Website](https://img.shields.io/badge/ngyuhueng.com-127A73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ngyuhueng.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ngyuhueng)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yuhueng.business@gmail.com)
 
 </div>
 
-<br>
+### 💫 About me
 
-<h1 align="center"> 💻 Tech Stack </h1>
+- 🧭 Current focus is **agentic AI**. The hard parts are orchestration, reliability and knowing when the agent should stop.
+- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Data Analytics and FinTech tracks, AI minor.
+- 💼 Previously Application Dev & Ops intern at **Singtel** and Software Engineering intern at **pQCee**.
+
+### 🧰 Tech stack
+
+<img src="tech-stack.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, Java, C, Ruby, SQL. AI and agents: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, CrewAI, MCP, OpenAI, AutoGen, Ragas. Backend and web: FastAPI, Flask, Express, Node.js, Rails, React, Tailwind, Streamlit. Data and cloud: Google Cloud, Databricks, Docker, MongoDB, Firebase, Pandas, NumPy, AWS, Azure, DynamoDB." />
+
+### 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/yuhueng/NLP-Project">Singlish LLM</a></b><br>
+      <sub>Qwen3-4B · QLoRA · Hugging Face · FastAPI · React</sub><br><br>
+      Fine-tuned a Singlish base model with 4-bit QLoRA, trained four persona adapters and wrapped it in a moderated chat app.<br><br>
+      <a href="https://github.com/yuhueng/NLP-Project">Repo</a> · <a href="https://yh-singlish-chatbot.vercel.app">Live demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/yuhueng/LeftOverChef">LeftoverChef</a></b><br>
+      <sub>Java · Firebase · YOLOv5 · OpenAI</sub><br><br>
+      Android app that turns a photo of leftovers into recipes. Honourable mention, Singtel merit award.<br><br>
+      <a href="https://github.com/yuhueng/LeftOverChef">Repo</a> · <a href="https://youtu.be/bmkhyujBJh4">Demo video</a>
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/yuhueng/YH-Web">Portfolio website</a></b><br>
+      <sub>React · Express · Node.js · MongoDB · Tailwind</sub><br><br>
+      MERN portfolio with form validation and automated email handling, deployed on Vercel and DigitalOcean.<br><br>
+      <a href="https://github.com/yuhueng/YH-Web">Repo</a> · <a href="https://ngyuhueng.com">ngyuhueng.com</a>
+    </td>
+  </tr>
+</table>
+
+### 🏅 Certifications
+
+<table>
+  <tr>
+    <td valign="middle"><a href="https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai"><img src="https://img.shields.io/badge/Coursera-161B22?style=for-the-badge&logo=coursera&logoColor=0056D2" alt="Coursera" /></a></td>
+    <td valign="middle">
+      <b><a href="https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai">IBM RAG and Agentic AI Professional Certificate</a></b><br>
+      <sub>IBM · LangChain, LangGraph, CrewAI, AutoGen, BeeAI, MCP, FAISS, ChromaDB</sub>
+    </td>
+    <td valign="middle" align="right"><sub>2026</sub></td>
+  </tr>
+</table>
+
+### 📊 GitHub
+
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind%20css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/xml-%23e34c26.svg?style=for-the-badge&logo=xml&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  <img src="https://github-readme-stats.vercel.app/api?username=yuhueng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FB39A&icon_color=2FB39A&text_color=C9D1D9" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=yuhueng&hide_border=true&background=0D1117&ring=2FB39A&fire=2FB39A&currStreakLabel=2FB39A&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" height="150" alt="GitHub streak" />
 </div>
 
-<br>
-
-<h1 align="center"> 📊 GitHub Stats </h1>
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=yuhueng&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yuhueng&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhueng&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=yuhueng&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B3C49,55:127A73,100:2FB39A&section=footer" width="100%" alt="" />
