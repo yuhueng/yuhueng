@@ -18,7 +18,10 @@
 
 ### 🧰 Tech stack
 
-<img src="tech-stack.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, Java, C, Ruby, SQL. AI and agents: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, CrewAI, MCP, OpenAI, AutoGen, Ragas. Backend and web: FastAPI, Flask, Express, Node.js, Rails, React, Tailwind, Streamlit. Data and cloud: Google Cloud, Databricks, Docker, MongoDB, Firebase, Pandas, NumPy, AWS, Azure, DynamoDB." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
+  <img src="assets/tech-stack-light.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, Java, C, Ruby, SQL. AI and agents: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, CrewAI, MCP, OpenAI, AutoGen, Ragas. Backend and web: FastAPI, Flask, Express, Node.js, Rails, React, Tailwind, Streamlit. Data and cloud: Google Cloud, Databricks, Docker, MongoDB, Firebase, Pandas, NumPy, AWS, Azure, DynamoDB." />
+</picture>
 
 ### 🚀 Featured work
 
@@ -61,8 +64,14 @@
 ### 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuhueng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FB39A&icon_color=2FB39A&text_color=C9D1D9" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=yuhueng&hide_border=true&background=0D1117&ring=2FB39A&fire=2FB39A&currStreakLabel=2FB39A&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" height="150" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yuhueng&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=2FB39A&icon_color=2FB39A&ring_color=2FB39A&text_color=C9D1D9">
+    <img src="https://github-stats-extended.vercel.app/api?username=yuhueng&show_icons=true&bg_color=FFFFFF&border_color=D0D7DE&title_color=127A73&icon_color=127A73&ring_color=127A73&text_color=1F2328" height="150" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yuhueng&background=0D1117&border=30363D&stroke=30363D&ring=2FB39A&fire=2FB39A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2FB39A&sideLabels=C9D1D9&dates=8B949E">
+    <img src="https://streak-stats.demolab.com?user=yuhueng&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=127A73&fire=127A73&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=127A73&sideLabels=57606A&dates=6E7781" height="150" alt="GitHub streak" />
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B3C49,55:127A73,100:2FB39A&section=footer" width="100%" alt="" />
