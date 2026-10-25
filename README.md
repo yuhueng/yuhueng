@@ -13,8 +13,8 @@
 ### 💫 About me
 
 - 🧭 Current focus is **agentic AI**. The hard parts are orchestration, reliability and knowing when the agent should stop.
-- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Data Analytics and FinTech tracks, AI minor.
-- 💼 Previously Application Dev & Ops intern at **Singtel** and Software Engineering intern at **pQCee**.
+- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Specialization in Data Analytics with AI minor.
+- 💼 Previously an Application Dev & Ops intern at **Singtel** and a Software Engineering intern at **pQCee**.
 
 ### 🧰 Tech stack
 
