@@ -12,9 +12,9 @@
 
 ### 💫 About me
 
-- 🧭 Current focus is **agentic AI**. The hard parts are orchestration, reliability and knowing when the agent should stop.
+- 🧭 Current focus is **Agentic AI** and **FinTech**. The hard parts are orchestration, reliability and knowing when the agent should stop.
 - 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Specialization in Data Analytics with AI minor.
-- 💼 Previously an Application Dev & Ops intern at **Singtel** and a Software Engineering intern at **pQCee**.
+- 💼 Previously an Application Dev & Ops intern at **Singtel** and a Software Engineering intern at **pQCee**. Currently, I am a Full-Time Software Engineer at Synapxe.
 
 ### 🧰 Tech stack
 
