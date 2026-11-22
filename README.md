@@ -12,15 +12,16 @@
 
 ### 💫 About me
 
-- 🧭 Current focus is **agentic AI**. The hard parts are orchestration, reliability and knowing when the agent should stop.
-- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Data Analytics and FinTech tracks, AI minor.
-- 💼 Previously Application Dev & Ops intern at **Singtel** and Software Engineering intern at **pQCee**.
+- 🧭 Current focus is **Agentic AI**. The hard parts are orchestration, reliability, and knowing when the agent should stop.
+- 💻 Software Engineer at **Synapxe** (September 2026) under the HealthTech Associate Programme.
+- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Specialization in Data Analytics and FinTech. Minor in AI.
+- 💼 Previously an Application Dev & Ops intern at **Singtel** (May 2026) and a Software Engineering intern at **pQCee** (February 2026).
 
 ### 🧰 Tech stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
-  <img src="assets/tech-stack-light.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, Java, C, Ruby, SQL. AI and agents: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, CrewAI, MCP, OpenAI, AutoGen, Ragas. Backend and web: FastAPI, Flask, Express, Node.js, Rails, React, Tailwind, Streamlit. Data and cloud: Google Cloud, Databricks, Docker, MongoDB, Firebase, Pandas, NumPy, AWS, Azure, DynamoDB." />
+  <img src="assets/tech-stack-light.svg" width="100%" alt="Tech stack. Languages: C, Java, JavaScript, Python, Ruby, SQL, TypeScript. AI and agents: AutoGen, CrewAI, Hugging Face, LangChain, LangGraph, MCP, OpenAI, PyTorch, Ragas, TensorFlow. Backend and web: Express, FastAPI, Flask, Node.js, Rails, React, Spring, Spring Boot, Streamlit, Tailwind, Vite. Data and cloud: AWS, Azure, Cloudflare, Databricks, DigitalOcean, Docker, Firebase, Google Cloud, MongoDB, NumPy, Pandas, PostgreSQL, Vercel. Tools and workflow: BuildForge, Confluence, Git, GitHub, Jira." />
 </picture>
 
 ### 🚀 Featured work
