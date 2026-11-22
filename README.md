@@ -2,20 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B3C49,55:127A73,100:2FB39A&text=Ng%20Yu%20Hueng&fontSize=58&fontColor=F3FFFB&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Singapore&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Ng Yu Hueng" />
 
-<a href="https://ngyuhueng.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2FB39A&center=true&vCenter=true&width=640&height=40&lines=Building+agentic+AI+systems;APIs%2C+pipelines+and+evals+for+LLM+products;SUTD+CSD+%2726+%C2%B7+Data+Analytics+%2B+AI+minor" alt="Typing intro" /></a>
+<a href="https://ngyuhueng.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2FB39A&center=true&vCenter=true&width=640&height=40&lines=Software+Engineer;Architecting+APIs%2C+data+pipelines+%26+LLM+evals;SUTD+CSD+%2726+%C2%B7+Data+Analytics+%2B+AI+minor" alt="Typing intro" /></a>
 
-[![Website](https://img.shields.io/badge/ngyuhueng.com-127A73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ngyuhueng.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/ngyuhueng)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yuhueng.business@gmail.com)
+<a href="https://ngyuhueng.com"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0ngyuhueng.com%C2%A0%C2%A0%E2%80%8B-127A73?style=for-the-badge&logo=googlechrome&logoColor=white" height="50" alt="Website" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ngyuhueng"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0LinkedIn%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" height="50" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:yuhueng.business@gmail.com"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Email%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" height="50" alt="Email" /></a>
 
 </div>
 
 ### 💫 About me
 
 - 🧭 Current focus is **Agentic AI**. The hard parts are orchestration, reliability, and knowing when the agent should stop.
-- 💻 Software Engineer at **Synapxe** (September 2026) under the HealthTech Associate Programme.
-- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Specialization in Data Analytics and FinTech. Minor in AI.
-- 💼 Previously an Application Dev & Ops intern at **Singtel** (May 2026) and a Software Engineering intern at **pQCee** (February 2026).
+- 💻 Software Engineer at **Synapxe** (Sep 2026 – Present) under the HealthTech Associate Programme.
+- 🎓 SUTD Computer Science and Design (2022 – 2026), Honours with Distinction. Specialization in Data Analytics and FinTech. Minor in AI.
+- 💼 Previously an Application Dev & Ops intern at **Singtel** (May – Aug 2026) and a Software Engineering intern at **pQCee** (Feb – May 2026).
 
 ### 🧰 Tech stack
 
