@@ -12,9 +12,9 @@
 
 ### 💫 About me
 
-- 🧭 Current focus is **Agentic AI** and **FinTech**. The hard parts are orchestration, reliability and knowing when the agent should stop.
-- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Specialization in Data Analytics with AI minor.
-- 💼 Previously an Application Dev & Ops intern at **Singtel** and a Software Engineering intern at **pQCee**. Currently, I am a Full-Time Software Engineer at Synapxe.
+- 🧭 Current focus is **agentic AI**. The hard parts are orchestration, reliability and knowing when the agent should stop.
+- 🎓 SUTD Computer Science and Design (2026), Honours with Distinction. Data Analytics and FinTech tracks, AI minor.
+- 💼 Previously Application Dev & Ops intern at **Singtel** and Software Engineering intern at **pQCee**.
 
 ### 🧰 Tech stack
 
@@ -27,19 +27,27 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/yuhueng/pdf_edit">PDF Edit</a></b><br>
+      <sub>Vite · PWA · Client-side · Vercel</sub><br><br>
+      Mobile-first Progressive Web App for merging, splitting, and annotating PDFs 100% client-side with zero backend storage.<br><br>
+      <a href="https://github.com/yuhueng/pdf_edit">Repo</a>
+    </td>
+    <td width="50%" valign="top">
       <b><a href="https://github.com/yuhueng/NLP-Project">Singlish LLM</a></b><br>
       <sub>Qwen3-4B · QLoRA · Hugging Face · FastAPI · React</sub><br><br>
       Fine-tuned a Singlish base model with 4-bit QLoRA, trained four persona adapters and wrapped it in a moderated chat app.<br><br>
       <a href="https://github.com/yuhueng/NLP-Project">Repo</a> · <a href="https://yh-singlish-chatbot.vercel.app">Live demo</a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <b><a href="https://github.com/yuhueng/LeftOverChef">LeftoverChef</a></b><br>
       <sub>Java · Firebase · YOLOv5 · OpenAI</sub><br><br>
       Android app that turns a photo of leftovers into recipes. Honourable mention, Singtel merit award.<br><br>
       <a href="https://github.com/yuhueng/LeftOverChef">Repo</a> · <a href="https://youtu.be/bmkhyujBJh4">Demo video</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b><a href="https://github.com/yuhueng/YH-Web">Portfolio website</a></b><br>
       <sub>React · Express · Node.js · MongoDB · Tailwind</sub><br><br>
       MERN portfolio with form validation and automated email handling, deployed on Vercel and DigitalOcean.<br><br>
@@ -59,6 +67,14 @@
     </td>
     <td valign="middle" align="right"><sub>2026</sub></td>
   </tr>
+  <tr>
+    <td valign="middle"><a href="https://coursera.org/share/8c075df35d4f48609e1db713668a11c0"><img src="https://img.shields.io/badge/Coursera-161B22?style=for-the-badge&logo=coursera&logoColor=0056D2" alt="Coursera" /></a></td>
+    <td valign="middle">
+      <b><a href="https://coursera.org/share/8c075df35d4f48609e1db713668a11c0">Java Spring Boot Backend Development Specialization</a></b><br>
+      <sub>Java, Spring Framework, Spring Boot, Spring Security, Web Development</sub>
+    </td>
+    <td valign="middle" align="right"><sub>2026</sub></td>
+  </tr>
 </table>
 
 ### 📊 GitHub
@@ -69,8 +85,8 @@
     <img src="https://github-stats-extended.vercel.app/api?username=yuhueng&show_icons=true&bg_color=FFFFFF&border_color=D0D7DE&title_color=127A73&icon_color=127A73&ring_color=127A73&text_color=1F2328" height="150" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yuhueng&background=0D1117&border=30363D&stroke=30363D&ring=2FB39A&fire=2FB39A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2FB39A&sideLabels=C9D1D9&dates=8B949E">
-    <img src="https://streak-stats.demolab.com?user=yuhueng&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=127A73&fire=127A73&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=127A73&sideLabels=57606A&dates=6E7781" height="150" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yuhueng&background=0D1117&border_color=30363D&stroke=30363D&ring=2FB39A&fire=2FB39A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2FB39A&sideLabels=C9D1D9&dates=8B949E">
+    <img src="https://streak-stats.demolab.com?user=yuhueng&background=FFFFFF&border_color=D0D7DE&stroke=D0D7DE&ring=127A73&fire=127A73&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=127A73&sideLabels=57606A&dates=6E7781" height="150" alt="GitHub streak" />
   </picture>
 </div>
 
