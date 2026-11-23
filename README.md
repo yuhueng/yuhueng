@@ -5,9 +5,7 @@
 <a href="https://ngyuhueng.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2FB39A&center=true&vCenter=true&width=640&height=40&lines=Software+Engineer;Architecting+APIs%2C+data+pipelines+%26+LLM+evals;SUTD+CSD+%2726+%C2%B7+Data+Analytics+%2B+AI+minor" alt="Typing intro" /></a>
 
 <a href="https://ngyuhueng.com"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0ngyuhueng.com%C2%A0%C2%A0%E2%80%8B-127A73?style=for-the-badge&logo=googlechrome&logoColor=white" height="50" alt="Website" /></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/ngyuhueng"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0LinkedIn%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" height="50" alt="LinkedIn" /></a>
-&nbsp;
 <a href="mailto:yuhueng.business@gmail.com"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Email%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" height="50" alt="Email" /></a>
 
 </div>
@@ -34,28 +32,24 @@
     <td width="50%" valign="top">
       <b><a href="https://github.com/yuhueng/pdf_edit">PDF Edit</a></b><br>
       <sub>Vite · PWA · Client-side · Vercel</sub><br><br>
-      Mobile-first Progressive Web App for merging, splitting, and annotating PDFs 100% client-side with zero backend storage.<br><br>
-      <a href="https://github.com/yuhueng/pdf_edit">Repo</a>
+      Mobile-first Progressive Web App for merging, splitting, and annotating PDFs 100% client-side with zero backend storage.
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/yuhueng/NLP-Project">Singlish LLM</a></b><br>
+      <b><a href="https://github.com/yuhueng/NLP-Project">Singlish LLM</a></b> · <a href="https://yh-singlish-chatbot.vercel.app">Live Demo ↗</a><br>
       <sub>Qwen3-4B · QLoRA · Hugging Face · FastAPI · React</sub><br><br>
-      Fine-tuned a Singlish base model with 4-bit QLoRA, trained four persona adapters and wrapped it in a moderated chat app.<br><br>
-      <a href="https://github.com/yuhueng/NLP-Project">Repo</a> · <a href="https://yh-singlish-chatbot.vercel.app">Live demo</a>
+      Fine-tuned a Singlish base model with 4-bit QLoRA, trained four persona adapters, and wrapped it in a moderated chat app.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/yuhueng/LeftOverChef">LeftoverChef</a></b><br>
+      <b><a href="https://github.com/yuhueng/LeftOverChef">LeftoverChef</a></b> · <a href="https://youtu.be/bmkhyujBJh4">Demo Video ↗</a><br>
       <sub>Java · Firebase · YOLOv5 · OpenAI</sub><br><br>
-      Android app that turns a photo of leftovers into recipes. Honourable mention, Singtel merit award.<br><br>
-      <a href="https://github.com/yuhueng/LeftOverChef">Repo</a> · <a href="https://youtu.be/bmkhyujBJh4">Demo video</a>
+      Android app that turns a photo of leftovers into recipes. <i>Honourable Mention, Singtel Merit Award.</i>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/yuhueng/YH-Web">Portfolio website</a></b><br>
+      <b><a href="https://github.com/yuhueng/YH-Web">Portfolio Website</a></b> · <a href="https://ngyuhueng.com">ngyuhueng.com ↗</a><br>
       <sub>React · Express · Node.js · MongoDB · Tailwind</sub><br><br>
-      MERN portfolio with form validation and automated email handling, deployed on Vercel and DigitalOcean.<br><br>
-      <a href="https://github.com/yuhueng/YH-Web">Repo</a> · <a href="https://ngyuhueng.com">ngyuhueng.com</a>
+      MERN portfolio with form validation and automated email handling, deployed on Vercel and DigitalOcean.
     </td>
   </tr>
 </table>
