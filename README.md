@@ -6,9 +6,9 @@
 
 <a href="https://ngyuhueng.com"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0ngyuhueng.com%C2%A0%C2%A0%E2%80%8B-127A73?style=for-the-badge&logo=googlechrome&logoColor=white" height="50" alt="Website" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/ngyuhueng"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0LinkedIn%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" height="50" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ngyuhueng"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0LinkedIn%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" height="50" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:yuhueng.business@gmail.com"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Email%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" height="50" alt="Email" /></a>
+<a href="mailto:yuhueng.business@gmail.com"><img src="https://img.shields.io/badge/%E2%80%8B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Email%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%80%8B-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" height="50" alt="Email" /></a>
 
 </div>
 
@@ -18,6 +18,7 @@
 - 💻 Software Engineer at **Synapxe** (Sep 2026 – Present) under the HealthTech Associate Programme.
 - 🎓 SUTD Computer Science and Design (2022 – 2026), Honours with Distinction. Specialization in Data Analytics and FinTech. Minor in AI.
 - 💼 Previously an Application Dev & Ops intern at **Singtel** (May – Aug 2026) and a Software Engineering intern at **pQCee** (Feb – May 2026).
+- ✈️ Outside of code, I love traveling and taking photos and videos along the way (recently got into drones and Osmo360 :P).
 
 ### 🧰 Tech stack
 
@@ -59,7 +60,7 @@
   </tr>
 </table>
 
-### 🏅 Certifications
+### 🏅 Certifications and Exams
 
 <table>
   <tr>
@@ -85,11 +86,11 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yuhueng&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=2FB39A&icon_color=2FB39A&ring_color=2FB39A&text_color=C9D1D9">
-    <img src="https://github-stats-extended.vercel.app/api?username=yuhueng&show_icons=true&bg_color=FFFFFF&border_color=D0D7DE&title_color=127A73&icon_color=127A73&ring_color=127A73&text_color=1F2328" height="150" alt="GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=yuhueng&show_icons=true&bg_color=FFFFFF&border_color=D0D7DE&title_color=127A73&icon_color=127A73&ring_color=127A73&text_color=1F2328" height="180" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yuhueng&background=0D1117&border_color=30363D&stroke=30363D&ring=2FB39A&fire=2FB39A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2FB39A&sideLabels=C9D1D9&dates=8B949E">
-    <img src="https://streak-stats.demolab.com?user=yuhueng&background=FFFFFF&border_color=D0D7DE&stroke=D0D7DE&ring=127A73&fire=127A73&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=127A73&sideLabels=57606A&dates=6E7781" height="150" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=yuhueng&background=FFFFFF&border_color=D0D7DE&stroke=D0D7DE&ring=127A73&fire=127A73&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=127A73&sideLabels=57606A&dates=6E7781" height="180" alt="GitHub streak" />
   </picture>
 </div>
 
