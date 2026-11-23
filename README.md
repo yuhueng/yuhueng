@@ -21,6 +21,8 @@
 ### 🧰 Tech stack
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tech-stack-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/tech-stack-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
   <img src="assets/tech-stack-light.svg" width="100%" alt="Tech stack. Languages: C, Java, JavaScript, Python, Ruby, SQL, TypeScript. AI and agents: AutoGen, CrewAI, Hugging Face, LangChain, LangGraph, MCP, OpenAI, PyTorch, Ragas, TensorFlow. Backend and web: Express, FastAPI, Flask, Next.js, Node.js, Rails, React, Spring, Spring Boot, Streamlit, Tailwind, Vite. Data and cloud: AWS, Azure, Cloudflare, Databricks, DigitalOcean, Docker, Firebase, Google Cloud, MongoDB, NumPy, Pandas, PostgreSQL, Supabase, Vercel. Tools and workflow: BuildForge, Confluence, Git, GitHub, GitLab, Jira." />
 </picture>
